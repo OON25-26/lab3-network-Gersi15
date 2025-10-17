@@ -20,8 +20,8 @@ for i, (name, color) in enumerate(color_dict.items()):
     colors.append(color)
     color_name.append(name)
 
-results_folder = ("C:\\Documents\\LAB_OON\\lab3-network-Gersi15\\results\\")
-main_folder = ("C:\\Documents\\lab3-network-Gersi15\\main\\")
+results_folder = "/Users/user/Documents/LAB_OON/lab3-network-Gersi15/results/"
+main_folder = "/Users/user/Documents/LAB_OON/lab3-network-Gersi15/"
 
 
 def lin2db(x):
